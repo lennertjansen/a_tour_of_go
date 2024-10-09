@@ -1,5 +1,10 @@
 package main
 
+import "fmt"
+
 func main() {
-	println("Hello, Ruman.")
+
+	var greeting string = "Hello, Mundu."
+
+	fmt.Println(greeting)
 }
